@@ -1,4 +1,4 @@
-# Keyboard firmware written by Zeioth
+# Zeioth Keyboard Firmware
 All my keyboard firmwares in one repo, so you can find the easily.
 
 ## Wireless keyboards (ZMK)
