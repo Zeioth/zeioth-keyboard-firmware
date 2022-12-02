@@ -14,4 +14,5 @@ All my keyboard firmwares in one repo, so you can find the easily.
 * Recommended manteinance: Cleaning every 2 months. Re-lubing switches every 2 years. New switches/keycaps every 15 years.
 
 ## TODO
-Add cool photos or something.
+* Coming soon, I will release a firmware for trackpad instead of trackball, as the former has proven to have a very limited life span (around 1 year).
+* Add cool photos or something.
