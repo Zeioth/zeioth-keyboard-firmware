@@ -11,7 +11,7 @@ All my keyboard firmwares in one repo, so you can find the easily.
 
 [Corne](https://github.com/Zeioth/zeioth-crkbd): This is the one I use the most. It is not wireless, because for ocassional gaming I rather having that extra latency gain. Also, by not using wireles/battery, I make sure it is realiable/durable. 
 
-* Recommended manteinance: It requires re-lubing every 2 years. New switches/keycaps every 10 years.
+* Recommended manteinance: Cleaning every 2 months. Re-lubing switches every 2 years. New switches/keycaps every 15 years.
 
 ## TODO
 Add cool photos or something.
