@@ -3,7 +3,7 @@ All my keyboard firmwares in one repo, so you can find the easily.
 
 ## Wireless keyboards (ZMK)
 
-[Wireless Corne](https://github.com/Zeioth/zmk-config): I realized I never had my laptop with me, so instead I built/coded this wireless keyboard to convert my current smartphone (Galaxy Fold 3) in a laptop. So I can code while I'm on the bus, or a physical workplace (like in times of the industrial revolution). 
+[Wireless Corne](https://github.com/Zeioth/zmk-config): I realized I never had my laptop with me, so instead I made this wireless keyboard to convert my current smartphone (Galaxy Fold 3) in a laptop. So I can code while I'm on the bus, or a physical workplace (like in times of the industrial revolution). 
 
 * Recommended manteinance: Aditionally to the normal manteinance a crkbd keyboard requires, it requires a new LIPO battery every 5 years.
 
