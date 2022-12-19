@@ -1,5 +1,5 @@
 # Zeioth Keyboard Firmware
-All my keyboard firmwares in one repo, so you can find the easily.
+All my keyboard firmwares in one repo, so you can find them easily.
 
 ## Wireless keyboards (ZMK)
 
