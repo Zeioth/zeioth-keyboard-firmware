@@ -9,7 +9,7 @@ All my keyboard firmwares in one repo, so you can find them easily.
 
 ## Wired keyboards (QMK)
 
-[QMK wired Corne](https://github.com/Zeioth/zeioth-crkbd): This is the one I use the most. It is not wireless, because for ocassional gaming I rather having that extra latency gain. Also, by not using wireles/battery, I make sure it is realiable/durable. 
+[QMK wired Corne](https://github.com/Zeioth/zeioth-qmk): This is the one I use the most. It is not wireless, because for ocassional gaming I rather having that extra latency gain. Also, by not using wireles/battery, I make sure it is realiable/durable. 
 
 * Recommended manteinance: Cleaning every 2 months. Re-lubing switches every 2 years. New switches/keycaps every 15 years.
 
